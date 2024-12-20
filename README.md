@@ -7,4 +7,4 @@ I am currently in my qualifying year to do a Master's of Computer Science at Que
 - An automated cardiovascular symptom checker
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,r,matlab,bash,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,nodejs,r,matlab,bash,&perline=8)](https://skillicons.dev)
