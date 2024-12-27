@@ -5,7 +5,6 @@ I am currently in my qualifying year to do a Master's of Computer Science at Que
 - An automated invoicing system for an oil and gas company in Alberta, Canada (private)
 - A predictive model for a short-term rental company in Ontario, Canada (private)
 - An automated cardiovascular symptom checker
-- HarvardX ai, ml, and research courses
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,r,matlab,bash,&perline=7)](https://skillicons.dev)
